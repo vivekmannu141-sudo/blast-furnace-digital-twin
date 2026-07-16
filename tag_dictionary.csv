@@ -1,0 +1,14 @@
+source_tag,friendly_name,description,unit,asset,sampling_seconds,valid_min,valid_max,quality_required,data_owner,calculated_or_raw
+BF1_HOT_BLAST_TEMPERATURE_C,hot_blast_temperature_c,Hot blast temperature,C,BF1,60,800,1400.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_HOT_BLAST_FLOW_NM3_MIN,hot_blast_flow_nm3_min,Hot blast flow,Nm3/min,BF1,60,2000,6000.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_BLAST_PRESSURE_BAR,blast_pressure_bar,Blast pressure,bar,BF1,60,0,6.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_DIFFERENTIAL_PRESSURE_BAR,differential_pressure_bar,Furnace differential pressure,bar,BF1,60,0,3.5,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_PCI_RATE_KG_THM,pci_rate_kg_thm,Pulverized coal injection rate,kg/tHM,BF1,60,0,250.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_OXYGEN_ENRICHMENT_PCT,oxygen_enrichment_pct,Oxygen enrichment,%,BF1,60,0,8.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_TOP_GAS_TEMPERATURE_C,top_gas_temperature_c,Top gas temperature,C,BF1,60,30,400.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_TOP_GAS_CO_PCT,top_gas_co_pct,Top gas CO,%,BF1,60,0,40.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_TOP_GAS_CO2_PCT,top_gas_co2_pct,Top gas CO2,%,BF1,60,0,35.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_STOCKLINE_M,stockline_m,Stockline depth,m,BF1,60,0,5.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_COOLING_WATER_DELTA_T_C,cooling_water_delta_t_c,Cooling water temperature rise,C,BF1,60,0,20.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_HOT_METAL_TEMPERATURE_C,hot_metal_temperature_c,Hot metal temperature,C,BF1,60,1300,1650.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
+BF1_HOT_METAL_SILICON_PCT,hot_metal_silicon_pct,Hot metal silicon,%,BF1,60,0,3.0,GOOD,TO_BE_ASSIGNED,raw_or_lab
